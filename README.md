@@ -8,3 +8,6 @@ virtualenv venv
 `.\venv\Scripts\activate`
 
 # activate virtual environment on linux
+
+# Issues
+- https://stackoverflow.com/questions/18713086/virtualenv-wont-activate-on-windows
